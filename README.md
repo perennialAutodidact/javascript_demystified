@@ -1,4 +1,4 @@
-# Javascript Demystified
+# Code a la Mode - Javascript Demystified
 Examples from the YouTube series "Javascript Demystified: Conquering Javascript’s Trickiest Topics"
 
 ## Overview
